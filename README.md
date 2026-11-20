@@ -36,5 +36,6 @@ Facebook page: [AI & Analytics World](https://www.facebook.com/AIAnalyticsWorld)
 বইটি পড়ে ভুল, অস্পষ্টতা বা সংশোধনের পরামর্শ পেলে GitHub-এর **Issues** ট্যাবে জানান। AI ও Data Analytics বিষয়ে আরও জানতে [AI & Analytics World](https://www.facebook.com/AIAnalyticsWorld) পেজটি অনুসরণ করতে পারেন। সেই সাথে Research and Data Science Students in Bangladesh (RDSSB) কমিউনিটির তে যুক্ত হতে [Research and Data Science Students in Bangladesh (RDSSB)] (https://www.facebook.com/groups/rdssb) গ্রুপে জয়েন্ট করুন।
 
 ---
-
 *Language: Bengali | Format: PDF | Resource type: Educational e-book*
+<img width="420" height="595" alt="121" src="https://github.com/user-attachments/assets/8906bb9a-8075-4bda-a998-f24fcf1e8bc9" />
+
